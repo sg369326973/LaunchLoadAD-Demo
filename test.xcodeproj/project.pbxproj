@@ -207,7 +207,6 @@
 				TargetAttributes = {
 					D67C639C1E49B7C3005C3BE3 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = XNSR99H3BH;
 						ProvisioningStyle = Automatic;
 					};
 					D67C63B51E49B7C5005C3BE3 = {
@@ -425,7 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = XNSR99H3BH;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.addcn591.test;
@@ -437,7 +436,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = XNSR99H3BH;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.addcn591.test;
@@ -514,6 +513,7 @@
 				D67C63CC1E49B7C5005C3BE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D67C63CD1E49B7C5005C3BE3 /* Build configuration list for PBXNativeTarget "testTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +522,7 @@
 				D67C63CF1E49B7C5005C3BE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D67C63D01E49B7C5005C3BE3 /* Build configuration list for PBXNativeTarget "testUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +531,7 @@
 				D67C63D21E49B7C5005C3BE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
